@@ -61,7 +61,9 @@ function App() {
                   const days = watch('days');
                   const valid = verifyIfDayBelongsMonth(days, months);
                   if (!valid) {
-                    setError('days', { message: '' });
+                    setError('days', {
+                      message: 'must be a valid day'
+                    });
                   } else {
                     clearErrors('days');
                   }
