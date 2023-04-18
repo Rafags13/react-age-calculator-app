@@ -1,0 +1,10 @@
+.input-container {
+    display: flex;
+    gap: 20px;
+}
+
+.arrow {
+    background-color: #854EFA;
+    padding: 10px;
+    border-radius: 50px;
+}

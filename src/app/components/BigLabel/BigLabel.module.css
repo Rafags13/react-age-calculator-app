@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+}
+
+.value {
+    letter-spacing: 2px;
+    color: #854EFA;
+    font-weight: bold;
+    font-size: 72px;
+    text-align: left;
+    font-style: italic;
+}
+
+.descriptionOfValue {
+    font-weight: bold;
+    font-size: 72px;
+    text-align: left;
+    font-style: italic;
+    margin-left: 5px;
+}
+
+@media screen and (max-width: 768px) {
+
+    .value,
+    .descriptionOfValue {
+        font-size: 44px;
+    }
+}
