@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-age-calculator-app/static/css/main.a4ace69c.css",
-    "main.js": "/react-age-calculator-app/static/js/main.b6f874c1.js",
+    "main.js": "/react-age-calculator-app/static/js/main.12f6a6dc.js",
     "static/media/Poppins-Bold.ttf": "/react-age-calculator-app/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
     "index.html": "/react-age-calculator-app/index.html",
     "static/media/icon-arrow.svg": "/react-age-calculator-app/static/media/icon-arrow.76e952b1b427b84b83bd01f2f4822499.svg",
     "main.a4ace69c.css.map": "/react-age-calculator-app/static/css/main.a4ace69c.css.map",
-    "main.b6f874c1.js.map": "/react-age-calculator-app/static/js/main.b6f874c1.js.map"
+    "main.12f6a6dc.js.map": "/react-age-calculator-app/static/js/main.12f6a6dc.js.map"
   },
   "entrypoints": [
     "static/css/main.a4ace69c.css",
-    "static/js/main.b6f874c1.js"
+    "static/js/main.12f6a6dc.js"
   ]
 }
